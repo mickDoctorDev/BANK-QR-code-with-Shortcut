@@ -1,1 +1,1 @@
-# Finance-QR-code-with-Shortcut
+# Bank-QR-code-with-Shortcut
